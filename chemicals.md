@@ -1,16 +1,11 @@
 # Project Aquarium
 
-## Systems to take care of
+## Chemical System to take care
 
 ### Nitrogen cycle
 
 ---
 The aquarium nitrogen cycle is the mechanism by which waste is processed in an aquarium. Freshwater aquarium fish release waste in the form of ammonia (NH3), which is toxic to all aquatic organisms. Nitrifying bacteria living in the filter, gravel bed, and on solid objects in the aquarium convert ammonia to nitrite (NO2) which is also toxic. Nitrite is then converted to nitrate (NO3) by a different set of nitrifying bacteria. Nitrates are not toxic to fish per se, however, long term exposure to high levels can stress them, stunt growth, damage organs and make them more susceptible to disease. Nitrates are used by aquatic plants but if allowed to accumulate nitrates contribute to unsightly algae growth. Other sources of biological waste include uneaten food and dead plant material.
-
- 
-
-Seeing cloudy water? Take a look a this helpful article on how to help!
-
  
 
 Establishing nitrifying bacteria, or “cycling” a new freshwater aquarium begins after you add the first fish and can take several weeks to even months in larger aquariums. Simply allowing your aquarium to run for 24 to 48 hours after first setting it up is not cycling. Adding too many fish at once or overfeeding a new freshwater aquarium will cause ammonia and nitrite to rise to unsafe levels – a condition known as “New Tank Syndrome” – and may result in fish loss. It can also prolong the cycling process. Seeding a new aquarium with a small amount of gravel or biological filter media from an established, healthy aquarium will help speed up the cycling process. Stock your new aquarium gradually, feed sparingly and test water regularly until ammonia and nitrite levels stabilize at zero.

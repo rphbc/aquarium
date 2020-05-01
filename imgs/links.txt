@@ -1,0 +1,4 @@
+photochemical_absortion -> http://ressources.unisciel.fr/tp_virtuels/Pigment_Extraction_Lab/co/module_Virtual%20Experiment_1.html
+lux_vs_distance.png -> https://www.yourhome.gov.au/energy/lighting
+lux_vs_distance_2.png -> https://www.kme21.com/old/kimin/eng/07_11.php
+
